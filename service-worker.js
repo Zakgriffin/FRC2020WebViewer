@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FRC2020WebViewer/precache-manifest.938716f6a67888db49b913ccc975f891.js"
+  "/FRC2020WebViewer/precache-manifest.7d7fb284eb4aeefce4358c9274822dea.js"
 );
 
 self.addEventListener('message', (event) => {
