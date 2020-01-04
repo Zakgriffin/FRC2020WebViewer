@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/FRC2020WebViewer/static/css/main.e2d60cb9.chunk.css",
-    "main.js": "/FRC2020WebViewer/static/js/main.67cb6a14.chunk.js",
-    "main.js.map": "/FRC2020WebViewer/static/js/main.67cb6a14.chunk.js.map",
-    "runtime-main.js": "/FRC2020WebViewer/static/js/runtime-main.f8713315.js",
-    "runtime-main.js.map": "/FRC2020WebViewer/static/js/runtime-main.f8713315.js.map",
-    "static/js/2.3172c990.chunk.js": "/FRC2020WebViewer/static/js/2.3172c990.chunk.js",
-    "static/js/2.3172c990.chunk.js.map": "/FRC2020WebViewer/static/js/2.3172c990.chunk.js.map",
-    "index.html": "/FRC2020WebViewer/index.html",
-    "precache-manifest.938716f6a67888db49b913ccc975f891.js": "/FRC2020WebViewer/precache-manifest.938716f6a67888db49b913ccc975f891.js",
-    "service-worker.js": "/FRC2020WebViewer/service-worker.js",
-    "static/css/main.e2d60cb9.chunk.css.map": "/FRC2020WebViewer/static/css/main.e2d60cb9.chunk.css.map",
-    "static/js/2.3172c990.chunk.js.LICENSE": "/FRC2020WebViewer/static/js/2.3172c990.chunk.js.LICENSE"
+    "main.css": "/FRCFieldWebViewer/static/css/main.e2d60cb9.chunk.css",
+    "main.js": "/FRCFieldWebViewer/static/js/main.67cb6a14.chunk.js",
+    "main.js.map": "/FRCFieldWebViewer/static/js/main.67cb6a14.chunk.js.map",
+    "runtime-main.js": "/FRCFieldWebViewer/static/js/runtime-main.876df2ca.js",
+    "runtime-main.js.map": "/FRCFieldWebViewer/static/js/runtime-main.876df2ca.js.map",
+    "static/js/2.3172c990.chunk.js": "/FRCFieldWebViewer/static/js/2.3172c990.chunk.js",
+    "static/js/2.3172c990.chunk.js.map": "/FRCFieldWebViewer/static/js/2.3172c990.chunk.js.map",
+    "index.html": "/FRCFieldWebViewer/index.html",
+    "precache-manifest.61edc8dbe88389792e049570831c58ca.js": "/FRCFieldWebViewer/precache-manifest.61edc8dbe88389792e049570831c58ca.js",
+    "service-worker.js": "/FRCFieldWebViewer/service-worker.js",
+    "static/css/main.e2d60cb9.chunk.css.map": "/FRCFieldWebViewer/static/css/main.e2d60cb9.chunk.css.map",
+    "static/js/2.3172c990.chunk.js.LICENSE": "/FRCFieldWebViewer/static/js/2.3172c990.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8713315.js",
+    "static/js/runtime-main.876df2ca.js",
     "static/js/2.3172c990.chunk.js",
     "static/css/main.e2d60cb9.chunk.css",
     "static/js/main.67cb6a14.chunk.js"
